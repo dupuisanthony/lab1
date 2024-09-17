@@ -67,7 +67,7 @@ public class AlgAnalysis {
      * creates an array of size n, then tests the runtime of findDups1 using that array
      *
      * @param  n size of array
-     * @return time taken in nano secondsss
+     * @return time taken in nano secondssssdds
      */
     public static long unique1Runtime( int n ) {
         int[] testArray = genArray(n);
